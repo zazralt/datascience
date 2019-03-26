@@ -2,11 +2,9 @@
 Dictionary for Data Scientists.
 
 | Topic | Term | Description |
-|--|--|--|
-| DA | ML | text
-1
-2
-3|
+|---|---|---|
+| DA | ML | text|
 | DE | ML | text |
 | CS | ML | text |
 
+| CS | **ML** | `some code` |
