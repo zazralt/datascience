@@ -5,5 +5,5 @@ Dictionary for Data Scientists.
 | ----- | ----- | ----- |
 | DA | ML | text|
 | DE | ML | text |
-| CS | ML | text |
+| CS | [test](https://www.google.com) | text |
 | CS | **ML** | `some code` |
