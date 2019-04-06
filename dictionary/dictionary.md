@@ -719,3 +719,4 @@ XZ | DE | compression
 Z-Score, Standard score, Standardization | DS | statistics
 Z-test | DS | statistics
 Zstandard | DE | compression
+Test | mug | muh
