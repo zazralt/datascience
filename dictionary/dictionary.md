@@ -5,7 +5,7 @@ Dictionary for Data Scientists.
 
 Term | Topic | Field
 :---|---:|---:
-A* search algorithm | DS | optimization
+A* search algorithm | DS | docker run --name pdc1 -d -v /nfs/t061701/PDC/Digitalday2019/pdc1/data:/app/src/assets/data:ro,rslave -p 4201:4200 test_pdc:latest, docker run --name pdc1 -d -v /nfs/t061701/PDC/Digitalday2019/pdc1/data:/app/src/assets/data:ro,rslave -p 4201:4200 test_pdc:latest, docker run --name pdc1 -d -v /nfs/t061701/PDC/Digitalday2019/pdc1/data:/app/src/assets/data:ro,rslave -p 4201:4200 test_pdc:latest
 A/B testing | DS | marketing
 Abstraction | DE | data
 Accuracy and precision | DS | statistics
